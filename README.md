@@ -24,7 +24,7 @@ CLOCK.RB
 
 4. Write a function to find the third largest string in an array of strings
 
-THIRD.RB
+THIRD_STRING.RB
 
 5. Name as many things as you can to improve this code:
 def height_in_cm(feet, inches)
